@@ -1,0 +1,21 @@
+{
+  "name": "@study-sea/custom-commitizen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "npm publish --access=public"
+  },
+  "keywords": [
+    "commitlint",
+    "custom-commitizen",
+    "commit rules"
+  ],
+  "author": "眼圈发黑 <1449826851@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "husky": "^8.0.1"
+  }
+}
