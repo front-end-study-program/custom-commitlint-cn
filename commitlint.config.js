@@ -1,4 +1,4 @@
 module.exports = {
-  // extends: [require('./index')],
-  extends: ["@commitlint/config-conventional"]
+  extends: ['./index'],
+  // extends: ["@commitlint/config-conventional"]
 };
