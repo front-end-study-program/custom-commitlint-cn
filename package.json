@@ -1,5 +1,5 @@
 {
-  "name": "@study-sea/custom-commitizen-cn",
+  "name": "@study-sea/custom-commitlint-cn",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [
     "commitlint",
-    "custom-commitizen",
+    "custom-commitlint",
     "commit rules"
   ],
   "author": "眼圈发黑 <1449826851@qq.com>",
